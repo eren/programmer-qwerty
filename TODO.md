@@ -3,7 +3,7 @@ TODO
 
 OS X
 ----
-- [ ] Add icon for the keylayout to be shown in menu bar
+- [x] Add icon for the keylayout to be shown in menu bar
 - [ ] Add keyboard layout preview in keyboard 
 
 Linux
