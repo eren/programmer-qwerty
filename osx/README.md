@@ -1,8 +1,5 @@
-Programmer Qwerty for OS X
-==========================
-
 Installation
-------------
+============
 * Copy `ProgrammerQwerty.keylayout` into `~/Library/Keyboard Layouts/` *(note
   this is your home directory, not system wide, be careful on ~ character)*
 
