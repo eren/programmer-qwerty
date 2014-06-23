@@ -23,5 +23,7 @@ Install
 Select your operating system in the project directory and read the instructions
 for installing the keyboard layout.
 
+TODO
+----
 Currently, only OS X is supported but layouts for other operating systems are
-planned.
+planned. Check TODO.md.
