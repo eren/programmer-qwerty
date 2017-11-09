@@ -8,4 +8,4 @@ OS X
 
 Linux
 -----
-- [ ] Add support for Linux.
+- [x] Add support for Linux.

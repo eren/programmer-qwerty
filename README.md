@@ -25,5 +25,5 @@ for installing the keyboard layout.
 
 TODO
 ----
-Currently, only OS X is supported but layouts for other operating systems are
+Currently, only OS X and GNU/Linux are supported but layouts for other operating systems are
 planned. Check TODO.md.
