@@ -68,6 +68,23 @@ xkb_symbols "euro" {
 };
 
 
+xkb_symbols "uk"{
+	name[Group1] = "UK Programmer's Keyboard";
+	include "us_programmer(basic)"
+    key <AE02>	{ [ quotedbl,  2,  twosuperior,    oneeighth ]	};
+    key <AE03>	{ [ sterling,  3, threesuperior,    sterling ]	};
+    key <AE04>	{ [   dollar,  4,     EuroSign,   onequarter ]	};
+
+    key <AC11>	{ [apostrophe,         at, dead_circumflex, dead_caron]	};
+    key <TLDE>	{ [     grave,    notsign,          bar,          bar ]	};
+
+    key <BKSL>	{ [numbersign, asciitilde,   dead_grave,   dead_breve ]	};
+    key <LSGT>	{ [ backslash,        bar,          bar,    brokenbar ]	};
+
+    include "level3(ralt_switch_multikey)"
+};
+
+
 partial alphanumeric_keys
 xkb_symbols "ibm238l" {
 
